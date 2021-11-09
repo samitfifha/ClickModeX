@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "dosamarvis@gmail.com.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "dosamarvis@gmail.com@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "dosamarvis@gmail.com@3x.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
